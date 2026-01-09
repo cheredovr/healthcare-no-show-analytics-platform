@@ -332,28 +332,4 @@ streamlit run app.py
 - Streamlit
 
 **Development:**
-- Jupyter Notebook (для экспериментов)
 - Git/GitHub
-
----
-
-## 📚 Дополнительно
-
-### Возможные улучшения
-
-**Feature Engineering:**
-- История пропусков пациента (требует PatientId join)
-- Расстояние до клиники (требует геоданные)
-- Погода в день приёма (API)
-
-**Модели:**
-- Hyperparameter tuning (GridSearchCV)
-- Ансамбли моделей (Stacking)
-- Deep Learning (LSTM для временных паттернов)
-
-**Deployment:**
-- Контейнеризация (Docker)
-- CI/CD pipeline
-- Production API (FastAPI)
-
----
